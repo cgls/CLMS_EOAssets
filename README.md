@@ -1,2 +1,2 @@
 # CLMS_EOAssets
-File with naming convention for missions, platforms and instruments in the EO metadata within the CLMS project.
+Standardized naming convention for missions, platforms, and instruments to be applied in the Earth Observation metadata within the Copernicus Land Monitoring Service (CLMS) project.
